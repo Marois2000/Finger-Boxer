@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FingerBoxer</string>
+    <string name="title">FINGER BOXER!</string>
+    <string name="playtext">PLAY!</string>
+    <string name="scorestext">Scores!</string>
+</resources>
